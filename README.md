@@ -11,4 +11,4 @@ The dataset contains information on advertising budgets for TV, radio, and newsp
 Follow the steps to clone the Repo
 Open Git Bash.
 Change to the directory you want.
-Clone the repository by entering this command: git clone "https://github.com/Sainy-Mishra/Iris_Flower_Classification.git"
+Clone the repository by entering this command: git clone "https://github.com/Sainy-Mishra/Sales-Prediction.git"
