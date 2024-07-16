@@ -9,6 +9,9 @@ The dataset contains information on advertising budgets for TV, radio, and newsp
 
 # Installation:
 Follow the steps to clone the Repo
+<br>
 Open Git Bash.
+<br>
 Change to the directory you want.
+<br>
 Clone the repository by entering this command: git clone "https://github.com/Sainy-Mishra/Sales-Prediction.git"
