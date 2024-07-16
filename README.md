@@ -6,3 +6,9 @@ Typically, a product and service-based business always need their Data Scientist
 Dataset is taken from Kaggle: https://www.kaggle.com/datasets/bumba5341/advertisingcsv
 <br>
 The dataset contains information on advertising budgets for TV, radio, and newspapers, along with sales figures.
+
+# Installation:
+Follow the steps to clone the Repo
+Open Git Bash.
+Change to the directory you want.
+Clone the repository by entering this command: git clone "https://github.com/Sainy-Mishra/Iris_Flower_Classification.git"
