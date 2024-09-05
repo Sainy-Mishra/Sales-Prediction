@@ -14,4 +14,6 @@ Open Git Bash.
 <br>
 Change to the directory you want.
 <br>
+```bash
 Clone the repository by entering this command: git clone "https://github.com/Sainy-Mishra/Sales-Prediction.git"
+```
